@@ -1,0 +1,4 @@
+edit system architecture and anomaly logic detection to make it more clear
+expand and edit risks and mitigation section with more tech explanation
+rough anomaly logic reference image added remove if needed
+modify architecture - data flow image or use a different flowchart
